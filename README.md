@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on automating development and QA processes @ Medecision.
+
+- 🌱 I’m currently learning AWS, docker, and kubernetes.
+
+- ⚡ Fun fact: Teaching others is the best way to learn.
+
+- 💬 Ask me about RoR, VueJS, Test Automation, Git, Vim, Data Models, and ☕
 
 <!--
 **josephbwalters/josephbwalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
