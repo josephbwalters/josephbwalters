@@ -7,6 +7,8 @@
 
 - 💬 Ask me about RoR, VueJS, Test Automation, Git, Vim, Data Models, and ☕
 
+- Social Media: [LinkedIn](https://www.linkedin.com/in/josephbwalters/), [Twitter](https://twitter.com/josephbwalters)
+
 <!--
 **josephbwalters/josephbwalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
