@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on automating development and QA processes @ Medecision.
+- 🔭 I’m currently a software engineering manager @ Medecision!
 
-- 🌱 I’m currently learning AWS, docker, and kubernetes.
+- 🌱 I’m currently learning AWS, SAFe, and project management.
 
 - ⚡ Fun fact: Teaching others is the best way to learn.
 
