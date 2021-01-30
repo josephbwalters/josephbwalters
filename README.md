@@ -7,8 +7,6 @@
 
 - 💬 Ask me about RoR, VueJS, Test Automation, Git, Vim, Data Models, and ☕
 
-- I actually use Gitlab for most of my work, but I try to keep things synced between the two systems.
-
 - My [dotfiles](https://github.com/josephbwalters/dotfiles) are always here in Github!
 
 - Links: [LinkedIn](https://www.linkedin.com/in/josephbwalters/), [Twitter](https://twitter.com/josephbwalters), [Gitlab](https://gitlab.com/josephbwalters)
