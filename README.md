@@ -9,7 +9,12 @@
 
 - My [dotfiles](https://github.com/josephbwalters/dotfiles) are always here in Github!
 
-- Links: [LinkedIn](https://www.linkedin.com/in/josephbwalters/), [Twitter](https://twitter.com/josephbwalters), [Gitlab](https://gitlab.com/josephbwalters)
+- Links:
+    - [LinkedIn](https://www.linkedin.com/in/josephbwalters/)
+    - [Twitter](https://twitter.com/josephbwalters)
+    - [Gitlab](https://gitlab.com/josephbwalters)
+    - [Portfolio](https://www.josephbwalters.dev)
+    - [Portfolio API](https://www.api.josephbwalters.dev)
 
 <!--
 **josephbwalters/josephbwalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
