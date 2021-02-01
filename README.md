@@ -1,7 +1,7 @@
 ### Hey 👋
 - 🔭 I’m currently a technical project lead @ Medecision!
 
-- 🌱 Currently I am learning AWS, SAFe, and Engineering Management.
+- 🌱 Currently I am learning about AWS, SAFe, and Engineering Management.
 
 - ⚡ Fun fact: Teaching others is the best way to learn.
 
