@@ -9,7 +9,7 @@
 
 - My [dotfiles](https://github.com/josephbwalters/dotfiles) are always here in Github!
 
-- Projects: [Situation Aware Stop Signal](https://josephbwalters.github.io/SASS/) | [Portfolio](https://www.josephbwalters.dev) - WIP | [Portfolio API](https://www.api.josephbwalters.dev) - WIP
+- Projects: [Situation Aware Stop Signal](https://josephbwalters.github.io/SASS/) | [Portfolio](https://www.josephbwalters.dev) - Not much here yet | [Portfolio API](https://www.api.josephbwalters.dev) - Not much here yet
 
 - Socials: [LinkedIn](https://www.linkedin.com/in/josephbwalters/) | [Twitter](https://twitter.com/josephbwalters) | [Gitlab](https://gitlab.com/josephbwalters)
 
