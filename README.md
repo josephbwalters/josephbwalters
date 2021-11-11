@@ -1,5 +1,5 @@
 ### Hey 👋
-- 🔭 I’m currently a technical project lead @ Medecision!
+- 🔭 I’m currently the Engineering Productivity Lead @ Medecision!
 
 - 🌱 Currently I am learning about AWS, SAFe, and Engineering Management.
 
