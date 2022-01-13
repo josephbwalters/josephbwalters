@@ -1,17 +1,17 @@
 ### Hey 👋
 - 🔭 I’m currently the Engineering Productivity Lead @ Medecision!
 
-- 🌱 Currently I am learning about AWS, SAFe, and Engineering Management.
+- 🌱 Currently I am learning/researching deployment pipelines and workflow optimization.
 
 - ⚡ Fun fact: Teaching others is the best way to learn.
 
-- 💬 Ask me about RoR, VueJS, Test Automation, Git, Vim, Data Models, and ☕
+- 💬 Ask me about RoR, VueJS, CI/CD, Git, Vim, Data Models, and ☕
 
 - My [dotfiles](https://github.com/josephbwalters/dotfiles) are always here in Github!
 
-- Projects: [Situation Aware Stop Signal](https://josephbwalters.github.io/SASS/) | [Portfolio](https://www.josephbwalters.dev) - Not much here yet | [Portfolio API](https://www.api.josephbwalters.dev) - Not much here yet
+- Projects: [Situation Aware Stop Signal](https://josephbwalters.github.io/SASS/) | [Personal Website](https://www.josephbwalters.dev) - Not much here yet
 
-- Socials: [LinkedIn](https://www.linkedin.com/in/josephbwalters/) | [Twitter](https://twitter.com/josephbwalters) | [Gitlab](https://gitlab.com/josephbwalters)
+- Sites: [LinkedIn](https://www.linkedin.com/in/josephbwalters/) | [Gitlab](https://gitlab.com/josephbwalters)
 
 <!--
 **josephbwalters/josephbwalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
