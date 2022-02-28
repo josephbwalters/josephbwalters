@@ -9,8 +9,6 @@
 
 - My [dotfiles](https://github.com/josephbwalters/dotfiles) are always here in Github!
 
-- Projects: [Situation Aware Stop Signal](https://josephbwalters.github.io/SASS/) | [Personal Website](https://www.josephbwalters.dev) - Not much here yet
-
 - Sites: [LinkedIn](https://www.linkedin.com/in/josephbwalters/) | [Gitlab](https://gitlab.com/josephbwalters)
 
 <!--
