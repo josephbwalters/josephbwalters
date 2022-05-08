@@ -1,11 +1,11 @@
 ### Hey 👋
-- 🔭 I’m currently the Engineering Productivity Lead @ Medecision!
+- 🔭 I’m currently the Sr. Manager of Operational Engineering @ Medecision!
 
 - 🌱 Currently I am learning/researching deployment pipelines and workflow optimization.
 
 - ⚡ Fun fact: Teaching others is the best way to learn.
 
-- 💬 Ask me about RoR, VueJS, CI/CD, Git, Vim, Data Models, and ☕
+- 💬 Ask me about RoR, VueJS, CI/CD, Git, Vim, Data Models, IaC, and ☕
 
 - My [dotfiles](https://gitlab.com/josephbwalters/dotfiles) are on Gitlab!
 
