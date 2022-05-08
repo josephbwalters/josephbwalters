@@ -7,7 +7,7 @@
 
 - 💬 Ask me about RoR, VueJS, CI/CD, Git, Vim, Data Models, and ☕
 
-- My [dotfiles](https://github.com/josephbwalters/dotfiles) are always here in Github!
+- My [dotfiles](https://gitlab.com/josephbwalters/dotfiles) are on Gitlab!
 
 - Sites: [LinkedIn](https://www.linkedin.com/in/josephbwalters/) | [Gitlab](https://gitlab.com/josephbwalters)
 
